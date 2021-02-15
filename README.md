@@ -6,4 +6,9 @@ Author: Leena Chaudhari
 
 command to execute the package is py.test compareApi_test.py --browse chrome
 
+to install the package please execute below command:
+python.exe -m pip install crypto_pkg_Leena_Chaudhari-0.0.1-py3-none-any.whl
+
+
+
 
